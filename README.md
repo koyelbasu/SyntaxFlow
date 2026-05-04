@@ -8,19 +8,25 @@ SyntaxFlow was born out of a desire to create a clean, minimalist, and highly fu
 ## ✨ Key Features
 Responsive Navigation: A fully mobile-optimized navbar that includes:
 
-### 🏠 Home: A dynamic landing page introducing the platform.
+### 🏠 Home:
+A dynamic landing page introducing the platform.
 
-### 📖 About: Insights into the vision and mission of SyntaxFlow.
+### 📖 About:
+Insights into the vision and mission of SyntaxFlow.
 
-### ❓ FAQ: A dedicated section to address common student queries.
+### ❓ FAQ: 
+A dedicated section to address common student queries.
 
-### 📞 Contact Us: A structured way for users to reach out for support.
+### 📞 Contact Us:
+A structured way for users to reach out for support.
 
 ## User Authentication System:
 
-### 🔐 Secure Login: A sleek interface for returning users.
+### 🔐 Secure Login: 
+A sleek interface for returning users.
 
-### 📝 Sign Up: An easy-onboarding process for new learners to join the community.
+### 📝 Sign Up:
+An easy-onboarding process for new learners to join the community.
 
 ### Modern Styling:
 Built with a "Mobile-First" philosophy using Bootstrap’s grid system and utility classes.
